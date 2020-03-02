@@ -1,0 +1,260 @@
+List creation successful. Can hold 4700 PIDs
+
+Assigned 10 random PIDs.
+
+PID #1 is: 4933
+PIDs available: 4699
+
+PID #2 is: 2945
+PIDs available: 4698
+
+PID #3 is: 1262
+PIDs available: 4697
+
+PID #4 is: 4155
+PIDs available: 4696
+
+PID #5 is: 1065
+PIDs available: 4695
+
+PID #6 is: 4229
+PIDs available: 4694
+
+PID #7 is: 4324
+PIDs available: 4693
+
+PID #8 is: 2382
+PIDs available: 4692
+
+PID #9 is: 2443
+PIDs available: 4691
+
+PID #10 is: 2644
+PIDs available: 4690
+
+The value of assigned PIDs are:
+4933
+2945
+1262
+4155
+1065
+4229
+4324
+2382
+2443
+2644
+
+Deleting two random PIDs.
+
+PID to be released: 1262
+PID released
+
+PID to be released: 1065
+PID released
+
+The value of assigned PIDs after release are:
+4933
+2945
+4155
+4229
+4324
+2382
+2443
+2644
+
+--------------------------------------------------------------------------------
+List creation successful. Can hold 4700 PIDs
+
+Assigned 10 random PIDs.
+
+PID #1 is: 356
+PIDs available: 4699
+
+PID #2 is: 911
+PIDs available: 4698
+
+PID #3 is: 3762
+PIDs available: 4697
+
+PID #4 is: 504
+PIDs available: 4696
+
+PID #5 is: 2413
+PIDs available: 4695
+
+PID #6 is: 4372
+PIDs available: 4694
+
+PID #7 is: 1097
+PIDs available: 4693
+
+PID #8 is: 1264
+PIDs available: 4692
+
+PID #9 is: 1340
+PIDs available: 4691
+
+PID #10 is: 984
+PIDs available: 4690
+
+The value of assigned PIDs are:
+356
+911
+3762
+504
+2413
+4372
+1097
+1264
+1340
+984
+
+Deleting two random PIDs.
+
+PID to be released: 1340
+PID released
+
+PID to be released: 356
+PID released
+
+The value of assigned PIDs after release are:
+911
+3762
+504
+2413
+4372
+1097
+1264
+984
+
+--------------------------------------------------------------------------------
+List creation successful. Can hold 4700 PIDs
+
+Assigned 10 random PIDs.
+
+PID #1 is: 2775
+PIDs available: 4699
+
+PID #2 is: 4587
+PIDs available: 4698
+
+PID #3 is: 2871
+PIDs available: 4697
+
+PID #4 is: 4394
+PIDs available: 4696
+
+PID #5 is: 2643
+PIDs available: 4695
+
+PID #6 is: 4361
+PIDs available: 4694
+
+PID #7 is: 4037
+PIDs available: 4693
+
+PID #8 is: 1966
+PIDs available: 4692
+
+PID #9 is: 1899
+PIDs available: 4691
+
+PID #10 is: 4730
+PIDs available: 4690
+
+The value of assigned PIDs are:
+2775
+4587
+2871
+4394
+2643
+4361
+4037
+1966
+1899
+4730
+
+Deleting two random PIDs.
+
+PID to be released: 1899
+PID released
+
+PID to be released: 4394
+PID released
+
+The value of assigned PIDs after release are:
+2775
+4587
+2871
+2643
+4361
+4037
+1966
+4730
+
+--------------------------------------------------------------------------------
+List creation successful. Can hold 4700 PIDs
+
+Assigned 10 random PIDs.
+
+PID #1 is: 1883
+PIDs available: 4699
+
+PID #2 is: 1851
+PIDs available: 4698
+
+PID #3 is: 4096
+PIDs available: 4697
+
+PID #4 is: 1797
+PIDs available: 4696
+
+PID #5 is: 792
+PIDs available: 4695
+
+PID #6 is: 4778
+PIDs available: 4694
+
+PID #7 is: 3043
+PIDs available: 4693
+
+PID #8 is: 4121
+PIDs available: 4692
+
+PID #9 is: 1476
+PIDs available: 4691
+
+PID #10 is: 4437
+PIDs available: 4690
+
+The value of assigned PIDs are:
+1883
+1851
+4096
+1797
+792
+4778
+3043
+4121
+1476
+4437
+
+Deleting two random PIDs.
+
+PID to be released: 1851
+PID released
+
+PID to be released: 4121
+PID released
+
+The value of assigned PIDs after release are:
+1883
+4096
+1797
+792
+4778
+3043
+1476
+4437
+
+--------------------------------------------------------------------------------

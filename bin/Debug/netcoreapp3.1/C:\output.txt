@@ -1,0 +1,31 @@
+The value of assigned PIDs are:
+439
+4473
+4938
+2539
+476
+4324
+2720
+3828
+3709
+3355
+
+Deleting two random PIDs.
+
+PID to be released: 4938
+PID released
+
+PID to be released: 2720
+PID released
+
+The value of assigned PIDs after release are:
+439
+4473
+2539
+476
+4324
+3828
+3709
+3355
+
+--------------------------------------------------------------------------------

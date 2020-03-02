@@ -1,0 +1,31 @@
+The value of assigned PIDs are:
+753
+4051
+3921
+584
+4382
+1904
+913
+1766
+733
+4046
+
+Deleting two random PIDs.
+
+PID to be released: 1904
+PID released
+
+PID to be released: 4382
+PID released
+
+The value of assigned PIDs after release are:
+753
+4051
+3921
+584
+913
+1766
+733
+4046
+
+--------------------------------------------------------------------------------

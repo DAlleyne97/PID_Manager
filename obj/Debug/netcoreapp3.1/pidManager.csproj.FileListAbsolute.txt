@@ -1,0 +1,11 @@
+/Users/devonalleyne/Desktop/pidManager/obj/Debug/netcoreapp3.1/pidManager.csprojAssemblyReference.cache
+/Users/devonalleyne/Desktop/pidManager/obj/Debug/netcoreapp3.1/pidManager.AssemblyInfoInputs.cache
+/Users/devonalleyne/Desktop/pidManager/obj/Debug/netcoreapp3.1/pidManager.AssemblyInfo.cs
+/Users/devonalleyne/Desktop/pidManager/bin/Debug/netcoreapp3.1/pidManager
+/Users/devonalleyne/Desktop/pidManager/bin/Debug/netcoreapp3.1/pidManager.deps.json
+/Users/devonalleyne/Desktop/pidManager/bin/Debug/netcoreapp3.1/pidManager.runtimeconfig.json
+/Users/devonalleyne/Desktop/pidManager/bin/Debug/netcoreapp3.1/pidManager.runtimeconfig.dev.json
+/Users/devonalleyne/Desktop/pidManager/bin/Debug/netcoreapp3.1/pidManager.dll
+/Users/devonalleyne/Desktop/pidManager/bin/Debug/netcoreapp3.1/pidManager.pdb
+/Users/devonalleyne/Desktop/pidManager/obj/Debug/netcoreapp3.1/pidManager.dll
+/Users/devonalleyne/Desktop/pidManager/obj/Debug/netcoreapp3.1/pidManager.pdb
